@@ -1,0 +1,100 @@
+const myDummyProducts = [
+    {
+        id: 1,
+        title: 'Art 01',
+        price: '7',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 2,
+        title: 'Art 02',
+        price: '11',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 3,
+        title: 'Art 03',
+        price: '9',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 4,
+        title: 'Art 04',
+        price: '13',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 5,
+        title: 'Art 05',
+        price: '15',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 6,
+        title: 'Art 06',
+        price: '11',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 7,
+        title: 'Art 07',
+        price: '7',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 8,
+        title: 'Art 08',
+        price: '11',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 9,
+        title: 'Art 09',
+        price: '9',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 10,
+        title: 'Art 10',
+        price: '7',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 11,
+        title: 'Art 11',
+        price: '9',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+    {
+        id: 12,
+        title: 'Art 12',
+        price: '15',
+        category: 'category 01',
+        description: 'Description for Art 01',
+        image: '/products/logo.png'
+    },
+]
+
+export { myDummyProducts }
